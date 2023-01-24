@@ -1,0 +1,7 @@
+.dockerignore
+.editorconfig
+.gitattributes
+*.vs
+\WebCoreApi\bin
+\WebCoreApi\obj
+

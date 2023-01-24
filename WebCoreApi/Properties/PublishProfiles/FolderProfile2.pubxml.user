@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\deen.muhammad\Desktop\Release\Backend_API</_PublishTargetUrl>
+    <History>True|2022-04-26T06:31:16.2218066Z;True|2022-04-22T11:08:33.1671419+05:00;</History>
+  </PropertyGroup>
+</Project>

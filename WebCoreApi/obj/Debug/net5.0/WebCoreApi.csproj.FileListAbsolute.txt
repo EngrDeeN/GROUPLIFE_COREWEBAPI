@@ -1,0 +1,91 @@
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\appsettings.json
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\WebCoreApi.exe
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\WebCoreApi.deps.json
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\WebCoreApi.runtimeconfig.json
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\WebCoreApi.runtimeconfig.dev.json
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\WebCoreApi.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\ref\WebCoreApi.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\WebCoreApi.pdb
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\Dapper.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\System.DirectoryServices.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\obj\Debug\net5.0\WebCoreApi.csproj.AssemblyReference.cache
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\obj\Debug\net5.0\WebCoreApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\obj\Debug\net5.0\WebCoreApi.AssemblyInfoInputs.cache
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\obj\Debug\net5.0\WebCoreApi.AssemblyInfo.cs
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\obj\Debug\net5.0\WebCoreApi.csproj.CoreCompileInputs.cache
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\obj\Debug\net5.0\WebCoreApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\obj\Debug\net5.0\WebCoreApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\obj\Debug\net5.0\staticwebassets\WebCoreApi.StaticWebAssets.Manifest.cache
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\obj\Debug\net5.0\staticwebassets\WebCoreApi.StaticWebAssets.xml
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\obj\Debug\net5.0\scopedcss\bundle\WebCoreApi.styles.css
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\obj\Debug\net5.0\WebCoreApi.RazorTargetAssemblyInfo.cache
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\obj\Debug\net5.0\WebCoreApi.csproj.CopyComplete
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\obj\Debug\net5.0\WebCoreApi.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\obj\Debug\net5.0\ref\WebCoreApi.dll
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\obj\Debug\net5.0\WebCoreApi.pdb
+D:\Current Working Front And APIs\WebCoreApi\WebCoreApi\obj\Debug\net5.0\WebCoreApi.genruntimeconfig.cache
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\appsettings.json
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\WebCoreApi.exe
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\WebCoreApi.deps.json
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\WebCoreApi.runtimeconfig.json
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\WebCoreApi.runtimeconfig.dev.json
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\WebCoreApi.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\ref\WebCoreApi.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\WebCoreApi.pdb
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\Dapper.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\System.DirectoryServices.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\System.DirectoryServices.Protocols.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\obj\Debug\net5.0\WebCoreApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\obj\Debug\net5.0\WebCoreApi.AssemblyInfoInputs.cache
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\obj\Debug\net5.0\WebCoreApi.AssemblyInfo.cs
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\obj\Debug\net5.0\WebCoreApi.csproj.CoreCompileInputs.cache
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\obj\Debug\net5.0\WebCoreApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\obj\Debug\net5.0\WebCoreApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\obj\Debug\net5.0\staticwebassets\WebCoreApi.StaticWebAssets.Manifest.cache
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\obj\Debug\net5.0\staticwebassets\WebCoreApi.StaticWebAssets.xml
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\obj\Debug\net5.0\scopedcss\bundle\WebCoreApi.styles.css
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\obj\Debug\net5.0\WebCoreApi.RazorTargetAssemblyInfo.cache
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\obj\Debug\net5.0\WebCoreApi.csproj.CopyComplete
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\obj\Debug\net5.0\WebCoreApi.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\obj\Debug\net5.0\ref\WebCoreApi.dll
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\obj\Debug\net5.0\WebCoreApi.pdb
+D:\Current Working Front And APIs\WebCoreApi FVVAPI V 1.9\WebCoreApi\obj\Debug\net5.0\WebCoreApi.genruntimeconfig.cache
